@@ -1,0 +1,80 @@
+.fotoperfil {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-radius: 50%;
+    object-fit: contain;
+    transition: transform .2s
+    
+}
+
+
+
+.fotoperfil:hover {
+/*     width: 320px; */
+    transform: scale(1.1);
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.caracteristicasmain {
+    opacity: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.caracteristicas {
+    opacity: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+.bg-side-b {
+    padding: 15px;  /* Just an example padding */
+    background: #24435c; /* Just an example color */
+    background-clip: padding-box;  
+}
+
+.subtittle-white {
+    color: white;
+}
+
+.imagentabla1 {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagentabla2 {
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagentabla3 {
+    text-align: center;
+    width: 300px;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagentabla4 {
+    text-align: center;
+    width: 300px;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
