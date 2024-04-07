@@ -3,7 +3,6 @@
     margin-left: auto;
     margin-right: auto;
     width: 300px;
-    border-radius: 50%;
     object-fit: contain;
     transition: transform .2s
     
